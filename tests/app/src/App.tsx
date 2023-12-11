@@ -1,4 +1,4 @@
-import { Button } from "../../../src/index";
+import { Button } from "reactomnix";
 
 export default function App() {
   return (
