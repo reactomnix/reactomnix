@@ -1,5 +1,5 @@
 export const Button: ({ children }: {
     children: any;
-}) => import("react").JSX.Element;
+}) => JSX.Element;
 
 //# sourceMappingURL=types.d.ts.map
